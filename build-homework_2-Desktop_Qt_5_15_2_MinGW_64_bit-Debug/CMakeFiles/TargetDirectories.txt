@@ -1,0 +1,3 @@
+C:/Course_CPP/homework/build-homework_2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/homework_2.dir
+C:/Course_CPP/homework/build-homework_2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Course_CPP/homework/build-homework_2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
